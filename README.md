@@ -20,6 +20,7 @@ It result in this Extension, that is not the Must-have for a web developper, but
 >
 > **Idowu Koyenikan**
 
+![useless-color-gif](https://user-images.githubusercontent.com/77204905/123639710-c1635e00-d820-11eb-8cac-58dd7dd8af8e.gif)
 
 ## Manual installation
 
