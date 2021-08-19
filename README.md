@@ -26,6 +26,6 @@ It result in this Extension, that is not the Must-have for a web developper, but
 
 Download the link below :
 
-[Useless-color-saver.xpi](https://addons.mozilla.org/firefox/downloads/file/3802965/useless_color_saver-1.5-fx.xpi)
+[Useless-color-saver.xpi](https://addons.mozilla.org/firefox/downloads/file/3827455/useless_color_saver-1.2-fx.xpi)
 
 Go to Add-ons > Install add-ons from file... > select the downloaded file
