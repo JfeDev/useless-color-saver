@@ -1,4 +1,4 @@
-# :poop: useless-color-saver :poop:
+# useless-color-saver
  _~~this extension will change your life~~_
 
 ## A useless Hex color code saver extension for Firefox
